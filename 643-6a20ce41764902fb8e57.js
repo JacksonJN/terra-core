@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[643],{2397:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var u=c(n(0)),a=c(n(73));function c(e){return e&&e.__esModule?e:{default:e}}var o=function(){return u.default.createElement(a.default,{title:"Back Action Header",onBack:function(){return alert("You clicked back!")}})};t.default=o}}]);
+//# sourceMappingURL=643-6a20ce41764902fb8e57.js.map

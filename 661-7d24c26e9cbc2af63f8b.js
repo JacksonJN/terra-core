@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[661],{2429:function(e,a,i){"use strict";Object.defineProperty(a,"__esModule",{value:!0}),a.default=void 0;var t=u(i(0)),n=u(i(140));function u(e){return e&&e.__esModule?e:{default:e}}a.default=function(){return t.default.createElement(n.default,{image:"invalid-image-url",initials:"JD",alt:"John Doe",id:"invalid-image-avatar"})}}}]);
+//# sourceMappingURL=661-7d24c26e9cbc2af63f8b.js.map
